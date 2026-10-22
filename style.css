@@ -1,6 +1,30 @@
-.grid_conatainer
+
+.grid-container
 {
+    border: 2px solid purple;
     display: flex;
     flex-wrap: wrap;
+    height: 600px;
+    width: 600px;
 }
+
+.grid-item
+{
+    box-sizing: border-box;
+    border: 1px solid gray;
+    height: 37.5px;
+    width:37.5px;
+}
+
+h1 
+{
+    margin-top:10px;
+    margin-bottom: 10px;
+}
+.change-squares
+{
+    margin-bottom: 10px;
+}
+
+
 
