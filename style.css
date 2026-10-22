@@ -1,0 +1,6 @@
+.grid_conatainer
+{
+    display: flex;
+    flex-wrap: wrap;
+}
+
